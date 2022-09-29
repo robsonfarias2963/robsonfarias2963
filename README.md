@@ -2,4 +2,4 @@
 - 👀 Quero virar um programador profissional.
 - 🌱 No momento estou estudando Python.
 - 💞️ Se voçe precisar de ajuda em projetos em Python,estou disposto a trabalhar para aprender.
-- 📫 Voçe pode me encontrar no [Linkedin](https://www.linkedin.com/in/robson-farias)
+- 📫 Voçe pode me encontrar no [Linkedin](https://www.linkedin.com/in/robson-farias-4b43a8224/)
