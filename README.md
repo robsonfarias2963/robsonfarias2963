@@ -35,7 +35,7 @@
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![sql](https://img.shields.io/badge/sql-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MONGODB](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![MONGODB](https://img.shields.io/badge/MONGODB-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
